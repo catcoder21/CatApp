@@ -1,1 +1,1 @@
-{"name":"catappwithhomepage","version":"1.0.0","main":"App.js","scripts":{"start":"expo start"},"dependencies":{"expo":"~50.0.0","react":"18.2.0","react-native":"0.73.0","@react-navigation/native":"^6.1.6","@react-navigation/native-stack":"^6.10.2"}}
+{"name":"catappwithhomepage","version":"1.0.0","main":"App.js","scripts":{"start":"expo start"},"dependencies":{"expo":"~53.0.0","react":"18.2.0","react-native":"0.73.0","@react-navigation/native":"^6.1.6","@react-navigation/native-stack":"^6.10.2"}}
